@@ -1,0 +1,10 @@
+Package: targetPredictorUpdater
+Type: Package
+Title: Updates data in targetPredictor.db
+Version: 0.99.0
+Date: 2014-01-16
+Author: Maciej Pajak
+Maintainer: Maciej Pajak <m.pajak@sms.ed.ac.uk>
+Description: Updates data in targetPredictor.db
+License: GPL 2
+Depends: R (>= 2.14.0), stringr, sqldf, RSQLite, biomaRt, targetPredictor.db
